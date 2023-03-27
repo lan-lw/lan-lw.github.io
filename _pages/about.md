@@ -19,7 +19,7 @@ News
 Research
 ======
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr22.png">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -39,7 +39,7 @@ Research
 ___
 
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/ecml21.png">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -57,7 +57,7 @@ ___
 ___
 
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/prl21.png">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -74,7 +74,7 @@ ___
 ___
 
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/eccv18.png">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -91,7 +91,7 @@ ___
 ___
 
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/icip18.png">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -108,7 +108,7 @@ ___
 ___
 
 <div class="row">
-  <div class="column left" style="width: 100%;margin-bottom:10px">
+  <div class="column left">
     <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/sp17.png">  
   </div>
   <div class="column middle">&nbsp;</div>
