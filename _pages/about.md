@@ -47,7 +47,7 @@ ___
     <p>
       <strong>Adversarial Representation Learning With Closed-Form Solvers</strong><br/>
       Bashir Sadeghi, <u>Lan Wang</u> , Vishnu Naresh Boddeti<br/>
-      <font size=2> European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'21), 2021. </font> <br/>
+      ECML-PKDD, 2021. <br/>
       [<a href="http://hal.cse.msu.edu/assets/pdfs/papers/2021-ecml-pkdd-adversarial-representation-learning-closed-form-solvers.pdf">PDF</a>]
       [<a href="human-analysis/closed-form-adversarial-representation-learning">Code</a>]
     </p>
