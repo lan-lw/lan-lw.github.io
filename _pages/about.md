@@ -14,13 +14,13 @@ News
 ======
 * [2023/02/27] One paper is accepted by CVPR 2023.
 
-Research
-======
 <br/>
 
+Research
+======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://user-images.githubusercontent.com/16111637/227982731-1ed142ef-e8dd-4ffa-a642-10e2eefee881.png">  
+    <img align="left" width="100%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr22.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
