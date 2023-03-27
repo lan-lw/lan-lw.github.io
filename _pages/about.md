@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! My name is Lan Wang and I'm a 4th year computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Video-language understanding, Causality, and Fairness. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and adviced by [Dr. Chenqiang Gao](https://gaocq.github.io/).
+Greetings! My name is Lan Wang and I'm a 4th year computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Video-language understanding, Causality, and Fairness. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and advised by [Dr. Chenqiang Gao](https://gaocq.github.io/).
 
 News
 ======
