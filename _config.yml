@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lan Wang"
-  avatar           : "images/lanphoto.png"
+  name             : 
+  avatar           : "https://github.com/lan-lw/lanwang.github.io/blob/master/images/lanphoto.png"
   bio              : 
   location         : "Michigan State University"
   employer         :
