@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "https://github.com/lan-lw/lanwang.github.io/blob/master/images/lanphoto.png"
+  avatar           : "lanphoto.png"
   bio              : 
   location         : "Michigan State University"
   employer         :
