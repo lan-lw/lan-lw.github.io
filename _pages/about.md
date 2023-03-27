@@ -40,7 +40,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/ecml21.png?raw=true">  
+    <img align="left" width="160" height="200" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/ecml21.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -75,7 +75,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/eccv18.png?raw=true">  
+    <img align="left" width="160" height="200" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/eccv18.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
