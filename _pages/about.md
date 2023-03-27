@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lan Wang (汪澜)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
