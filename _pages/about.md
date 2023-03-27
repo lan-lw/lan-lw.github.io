@@ -92,7 +92,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" height="160" width="200" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/icip18.png?raw=true">  
+    <img align="left" height="160" width="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/icip18.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
