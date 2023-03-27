@@ -20,7 +20,7 @@ Research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="40%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr22.png?raw=true">  
+    <img align="left" width="25%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr22.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -29,12 +29,28 @@ Research
       <u>Lan Wang*</u> and Vishnu Naresh Boddeti<br/>
       Computer Vision and Pattern Recognition (CVPR'22), 2022.<br/>
       [<a href="http://hal.cse.msu.edu/assets/pdfs/papers/2022-cvpr-do-representations-respect-causal-relations.pdf">PDF</a>]
-      [<a href="[https://github.com/andrewhou1/BlindShadowRemoval](https://github.com/human-analysis/causal-relations-between-representations)">Code</a>]
-      [<a href="[http://hal.cse.msu.edu/assets/pdfs/papers/2022-cvpr-do-representations-respect-causal-relations.pdf](http://hal.cse.msu.edu/assets/pdfs/papers/2022-cvpr-do-representations-respect-causal-relations-supp.pdf)">Supplement</a>]
-      [<a href="2022-cvpr-do-representations-respect-causal-relations.pdf">Slides</a>]
+      [<a href="https://github.com/human-analysis/causal-relations-between-representations">Code</a>]
+      [<a href="http://hal.cse.msu.edu/assets/pdfs/papers/2022-cvpr-do-representations-respect-causal-relations-supp.pdf">Supplement</a>]
+      [<a href="http://hal.cse.msu.edu/assets/slides/papers/2022-cvpr-do-representations-respect-causal-relations.pdf)">Slides</a>]
     </p>
   </div>
 </div>
 ___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="25%" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/ecml21.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Adversarial Representation Learning With Closed-Form Solvers,</strong><br/>
+      Bashir Sadeghi, <u>Lan Wang</u> , Vishnu Naresh Boddeti<br/>
+      European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'21), 2021.<br/>
+      [<a href="http://hal.cse.msu.edu/assets/pdfs/papers/2021-ecml-pkdd-adversarial-representation-learning-closed-form-solvers.pdf">PDF</a>]
+      [<a href="human-analysis/closed-form-adversarial-representation-learning">Code</a>]
+    </p>
+  </div>
+</div>
 
 <br/>
