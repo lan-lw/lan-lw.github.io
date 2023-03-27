@@ -12,7 +12,7 @@ Greetings! My name is Lan Wang and I'm a 4th year computer vision PhD student at
 
 News
 ======
-* [2023/02/27] One paper is accepted by CVPR 2023.
+* [2023/02/27] One paper is accepted by CVPR 2023. Coming soon.
 
 <br/>
 
