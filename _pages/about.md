@@ -26,8 +26,8 @@ Research
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>FairerCLIP: Debiasing Zero- Shot Predictions of CLIP in RKHSs </strong><br/>
-      <u>Sepehr Dehdashtian, Lan Wang</u>, Vishnu Boddeti <br/>
+      <strong>FairerCLIP: Debiasing Zero-Shot Predictions of CLIP in RKHSs </strong><br/>
+      <u>Sepehr Dehdashtian*</u>, <u>Lan Wang*</u>, Vishnu Boddeti <br/>
       International Conference on Learning Representations (ICLR'24), 2024.<br/>
     </p>
   </div>
@@ -43,7 +43,7 @@ ___
   <div class="column right">
     <p>
       <strong>ProTéGé: Untrimmed Pretraining for Video Temporal Grounding by Video Temporal Grounding </strong><br/>
-      <u>Lan Wang, Gaurav Mittal</u>, Sandra Sajeev, Ye Yu, Matthew Hall,Vishnu Bod- deti, Mei Chen <br/>
+      <u>Lan Wang*</u>, <u>Gaurav Mittal*</u>, Sandra Sajeev, Ye Yu, Matthew Hall,Vishnu Bod- deti, Mei Chen <br/>
       Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
       [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProTeGe_Untrimmed_Pretraining_for_Video_Temporal_Grounding_by_Video_Temporal_CVPR_2023_paper.pdf">PDF</a>]
     </p>
