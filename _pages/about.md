@@ -83,7 +83,7 @@ ___
       Bashir Sadeghi, <u>Lan Wang</u> , Vishnu Naresh Boddeti<br/>
       ECML-PKDD, 2021. <br/>
       [<a href="http://hal.cse.msu.edu/assets/pdfs/papers/2021-ecml-pkdd-adversarial-representation-learning-closed-form-solvers.pdf">PDF</a>]
-      [<a href="human-analysis/closed-form-adversarial-representation-learning">Code</a>]
+      [<a href="https://github.com/human-analysis/closed-form-adversarial-representation-learning">Code</a>]
     </p>
   </div>
 </div>
