@@ -8,16 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! My name is Lan Wang and I'm a 4th year computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Video-language understanding, Causality, and Fairness. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and advised by [Dr. Chenqiang Gao](https://gaocq.github.io/).
+Greetings! My name is Lan Wang and I'm a computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Video-language understanding, Causality, and Fairness. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and advised by [Dr. Chenqiang Gao](https://gaocq.github.io/).
 
 News
 ======
-* [2023/02/27] One paper is accepted by CVPR 2023. Coming soon.
+* [2024/01/16] One paper is accepted by ICLR 2024.
+* [2023/02/27] One paper is accepted by CVPR 2023.
 
 <br/>
 
 Research
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/iclr24.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>FairerCLIP: Debiasing Zero- Shot Predictions of CLIP in RKHSs </strong><br/>
+      <u>Sepehr Dehdashtian, Lan Wang</u>, Vishnu Boddeti <br/>
+      International Conference on Learning Representations (ICLR'24), 2024.<br/>
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr23.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>ProTéGé: Untrimmed Pretraining for Video Temporal Grounding by Video Temporal Grounding </strong><br/>
+      <u>Lan Wang, Gaurav Mittal</u>, Sandra Sajeev, Ye Yu, Matthew Hall,Vishnu Bod- deti, Mei Chen <br/>
+      Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
+      [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProTeGe_Untrimmed_Pretraining_for_Video_Temporal_Grounding_by_Video_Temporal_CVPR_2023_paper.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr22.png?raw=true">  
