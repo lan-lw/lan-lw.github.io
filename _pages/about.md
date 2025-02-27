@@ -60,7 +60,7 @@ ___
   <div class="column right">
     <p>
       <strong>FairerCLIP: Debiasing Zero-Shot Predictions of CLIP in RKHSs </strong><br/>
-      <u>Sepehr Dehdashtian*</u>, <u>Lan Wang*</u>, Vishnu Boddeti <br/>
+      <u>Sepehr Dehdashtian*</u>, <u>Lan Wang*</u>, Vishnu Naresh Boddeti <br/>
       International Conference on Learning Representations (ICLR'24), 2024.<br/>
       [<a href="https://hal.cse.msu.edu/assets/pdfs/papers/2024-iclr-fairerclip-debiasing-clip-zero-shot-predictions-rkhs.pdf">PDF</a>]
       [<a href="https://github.com/human-analysis/FairerCLIP">Code</a>]
@@ -78,7 +78,7 @@ ___
   <div class="column right">
     <p>
       <strong>ProTéGé: Untrimmed Pretraining for Video Temporal Grounding by Video Temporal Grounding </strong><br/>
-      <u>Lan Wang*</u>, <u>Gaurav Mittal*</u>, Sandra Sajeev, Ye Yu, Matthew Hall,Vishnu Bod- deti, Mei Chen <br/>
+      <u>Lan Wang*</u>, <u>Gaurav Mittal*</u>, Sandra Sajeev, Ye Yu, Matthew Hall, Vishnu Naresh Boddeti, Mei Chen <br/>
       Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
       [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProTeGe_Untrimmed_Pretraining_for_Video_Temporal_Grounding_by_Video_Temporal_CVPR_2023_paper.pdf">PDF</a>]
     </p>
