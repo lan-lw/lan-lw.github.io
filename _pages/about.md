@@ -12,6 +12,7 @@ Greetings! My name is Lan Wang and I'm a computer vision PhD student at Michigan
 
 News
 ======
+* [2025/02/26] Two papers are accepted by CVPR 2024.
 * [2024/01/16] One paper is accepted by ICLR 2024.
 * [2023/02/27] One paper is accepted by CVPR 2023.
 
@@ -29,6 +30,8 @@ Research
       <strong>FairerCLIP: Debiasing Zero-Shot Predictions of CLIP in RKHSs </strong><br/>
       <u>Sepehr Dehdashtian*</u>, <u>Lan Wang*</u>, Vishnu Boddeti <br/>
       International Conference on Learning Representations (ICLR'24), 2024.<br/>
+      [<a href="https://hal.cse.msu.edu/assets/pdfs/papers/2024-iclr-fairerclip-debiasing-clip-zero-shot-predictions-rkhs.pdf">PDF</a>]
+      [<a href="https://github.com/human-analysis/FairerCLIP">Code</a>]
     </p>
   </div>
 </div>
