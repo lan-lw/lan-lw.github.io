@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! My name is Lan Wang and I'm a computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Video-language understanding, Causality, and Fairness. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and advised by [Dr. Chenqiang Gao](https://gaocq.github.io/).
+Greetings! My name is Lan Wang and I'm a computer vision PhD student at Michigan State University (MSU). My research is on CV/ML, with particular interests in Multimodal Understanding / Generation, Causality, and Fairness for VLMs. I am fortunately advised by [Dr. Vishnu Boddeti](https://vishnu.boddeti.net/) and am a member of the [Human Analysis Lab](http://hal.cse.msu.edu/). Previously, I received my bachelor’s and master’s degrees at Chongqing University of Posts and Telecommunications and advised by [Dr. Chenqiang Gao](https://gaocq.github.io/).
 
 News
 ======
@@ -20,6 +20,38 @@ News
 
 Research
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr2025_01.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>SEAL: SEmantic Attention Learning for Long Video Representation </strong><br/>
+      <u>Lan Wang</u>, Yujia Chen, Du Tran, Vishnu Naresh Boddeti, Wen-Sheng Chu <br/>
+      Computer Vision and Pattern Recognition (CVPR'25), 2025.<br/>
+      [<a href="https://seal-lvu.github.io/">Project Page</a>]
+      [<a href="https://arxiv.org/pdf/2412.01798">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/cvpr2025_02.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Generative Zero-Shot Composed Image Retrieval </strong><br/>
+      <u>Lan Wang</u>, Wei Ao, Vishnu Naresh Boddeti, Ser-Nam Lim <br/>
+      Computer Vision and Pattern Recognition (CVPR'25), 2025.<br/>
+    </p>
+  </div>
+</div>
+
+___
 <div class="row">
   <div class="column left">
     <img align="left" width="160" height="160" src="https://github.com/lan-lw/lanwang.github.io/blob/master/images/iclr24.jpg?raw=true">  
