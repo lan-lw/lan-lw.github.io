@@ -12,7 +12,7 @@ Greetings! My name is Lan Wang and I'm a computer vision PhD student at Michigan
 
 News
 ======
-* [2025/02/26] Two papers are accepted by CVPR 2024.
+* [2025/02/26] Two papers are accepted by CVPR 2025.
 * [2024/01/16] One paper is accepted by ICLR 2024.
 * [2023/02/27] One paper is accepted by CVPR 2023.
 
